@@ -1,0 +1,1 @@
+export const CREDITS_REFETCH_INTERVAL = 30 * 1000;
