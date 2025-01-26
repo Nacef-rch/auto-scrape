@@ -1,6 +1,6 @@
 # 🚀 **Automation Workflow for Web Scraping**
 
-This project is an automation application inspired by platforms like **Zapier** and **n8n**, designed specifically for automating data scraping workflows from web applications. The primary goal of this project is to explore the concepts of automation algorithms and how workflows are executed, with a focus on data extraction and processing.
+This project is an automation application inspired by platforms like **Zapier** and **n8n**, designed specifically for automating data scraping workflows from web applications. The primary goal of this project is to explore the concepts of automation algorithms and how workflows are executed.
 
 ---
 
