@@ -15,7 +15,7 @@ This project uses **Turborepo** to implement a monorepo architecture, ensuring c
 - 🤖 **Puppeteer**: Enables headless browser automation for web scraping.
 - 🖼️ **React Flow**: Used to design and visualize workflows as interactive graphs.
 - ⚡ **useQuery**: For efficient caching and state management.
-- & more .....
+- **& more .....**
 
 ---
 
@@ -72,7 +72,7 @@ The Builder app adopts the **Container/Presenter** pattern to separate business 
   - 📧 **Email Sending**
   - 📁 **File Processing**
   - 🗄️ **Database Operations**
-  - & more .....
+  - **& more .....**
 
 - 🚀 **Future Potential**: Continue exploring new integrations, features, and improvements to enhance automation capabilities.
 
